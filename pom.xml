@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://maven.apache.org/POM/4.0.0"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+  <artifactId>concurrency</artifactId>
+
+  <groupId>tr.unvercanunlu</groupId>
+  <modelVersion>4.0.0</modelVersion>
+
+  <modules>
+    <module>race_condition</module>
+    <module>data_inconsistency</module>
+  </modules>
+
+  <name>concurrency</name>
+
+  <packaging>pom</packaging>
+
+  <version>0.1</version>
+
+</project>
